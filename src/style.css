@@ -237,4 +237,8 @@ footer a:hover {
   section {
     padding: 30px;
   }
+
+  .img-responsive {
+    display: none;
+  }
 }
