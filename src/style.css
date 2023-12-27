@@ -65,6 +65,10 @@ section {
   padding: 100px;
 }
 
+a:hover {
+  color: #883236;
+}
+
 section.secondary {
   background-color: #f0eee7;
 }
